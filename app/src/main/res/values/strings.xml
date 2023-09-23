@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Dice Games</string>
+  <string name="wallet_info">Click the die to play the game!!\n You get 5 coins for each 6 and 10 coins for a double\n Doubl for other number will get you in trouble!!</string>
+  <string name="coins">Coins</string>
+  <string name="zero">0</string>
+  <string name="coin_balance">0</string>
+  <string name="prev_roll">0</string>
+  <string name="prev_roll_label">Previous Roll</string>
+  <string name="single_sixes_label">Sixes Rolled</string>
+  <string name="single_sixes">0</string>
+  <string name="total_rolls_label">Total Dice Rolls</string>
+  <string name="total_rolls">0</string>
+  <string name="double_sixes_label">Double Sixes</string>
+  <string name="double_sixes">0</string>
+  <string name="double_others_label">Double Others </string>
+  <string name="double_others">0</string>
+</resources>
